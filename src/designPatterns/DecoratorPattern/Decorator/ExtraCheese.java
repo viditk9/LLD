@@ -1,6 +1,7 @@
-package designPatterns.DecoratorPattern.Decorator;
+package src.designPatterns.DecoratorPattern.Decorator;
 
-import designPatterns.DecoratorPattern.BasePizza;
+
+import src.designPatterns.DecoratorPattern.BasePizza;
 
 public class ExtraCheese extends ToppingsDecorator{
     public ExtraCheese(BasePizza basePizza) {

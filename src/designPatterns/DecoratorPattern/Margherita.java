@@ -1,4 +1,4 @@
-package designPatterns.DecoratorPattern;
+package src.designPatterns.DecoratorPattern;
 
 public class Margherita extends BasePizza{
     public int cost() {

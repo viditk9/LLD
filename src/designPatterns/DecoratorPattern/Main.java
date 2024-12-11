@@ -1,7 +1,8 @@
-package designPatterns.DecoratorPattern;
+package src.designPatterns.DecoratorPattern;
 
-import designPatterns.DecoratorPattern.Decorator.ExtraCheese;
-import designPatterns.DecoratorPattern.Decorator.Mushroom;
+
+import src.designPatterns.DecoratorPattern.Decorator.ExtraCheese;
+import src.designPatterns.DecoratorPattern.Decorator.Mushroom;
 
 public class Main {
     public static void main(String args[]) {

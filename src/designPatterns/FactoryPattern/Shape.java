@@ -1,4 +1,4 @@
-package designPatterns.FactoryPattern;
+package src.designPatterns.FactoryPattern;
 
 public interface Shape {
     public void draw();

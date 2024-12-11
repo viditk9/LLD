@@ -1,6 +1,7 @@
-package designPatterns.StrategyPattern;
+package src.designPatterns.StrategyPattern;
 
-import designPatterns.StrategyPattern.Strategy.SportsDriveStrategy;
+
+import src.designPatterns.StrategyPattern.Strategy.SportsDriveStrategy;
 
 public class OffRoadVehicle extends Vehicle{
     public OffRoadVehicle() {

@@ -1,6 +1,7 @@
-package designPatterns.ObserverPattern.Observable;
+package src.designPatterns.ObserverPattern.Observable;
 
-import designPatterns.ObserverPattern.Observer.NotificatoinAlertObserver;
+
+import src.designPatterns.ObserverPattern.Observer.NotificatoinAlertObserver;
 
 public interface StocksObservable {
     public void add(NotificatoinAlertObserver notificatoinAlertObserver);
